@@ -1,4 +1,4 @@
-plugin
-======
+plugin_subtree1
+===============
 
-Test subtree and submodule for plugins
+Subtree plugin
