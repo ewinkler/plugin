@@ -1,0 +1,3 @@
+[submodule "plugin_submodule1"]
+	path = plugin_submodule1
+	url = https://github.com/ewinkler/plugin_submodule1.git
